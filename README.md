@@ -4,7 +4,7 @@ Words Conversion Designed for Asian Languages.
 
 ### Install
 
-`go get github.com/ArsFy/convertwords@v0.0.1`
+`go get github.com/ArsFy/convertwords@v0.0.2`
 
 ### Example
 
